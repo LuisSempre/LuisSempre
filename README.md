@@ -6,5 +6,5 @@ I'm Luis Lucas, I'm a Front End developer 👨‍💻 who is passionate about Ja
 
 - 🔭 I’m currently working on JavaScript apps/systems
 - 🌱 I’m currently learning IA,DevOps and of course JS improvments
-- 💬 Ask me about: tech, anime and a little bit about investments.
+- 💬 Ask me about: tech, anime and CFTV.
 -  ⚡ Technologies: Vuejs, Node, Nuxtjs, SCSS.
