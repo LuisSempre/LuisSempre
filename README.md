@@ -11,4 +11,4 @@ I'm Luis Lucas, I'm a Front End developer 👨‍💻 who is passionate about Ja
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisSempre&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSempre&layout=compact)](https://github.com/LuisSempre/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSempre&layout=compact&show_icons=true&theme=radical)](https://github.com/LuisSempre/github-readme-stats)
