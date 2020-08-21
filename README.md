@@ -9,4 +9,4 @@ I'm Luis Lucas, I'm a Front End developer 👨‍💻 who is passionate about Ja
 - 💬 Ask me about: tech, anime and CFTV.
 -  ⚡ Technologies: Vuejs, Node, Nuxtjs, SCSS.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisSempre&show_icons=true&theme=radical)
