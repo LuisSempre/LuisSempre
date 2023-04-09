@@ -1,0 +1,23 @@
+{
+  "name": "LuisSempre",
+  "version": "0.0.1",
+  "description": "Hi, I am Luis Lucas",
+  "bugs": "https://github.com/LuisSempre/LuisSempre",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuisSempre/LuisSempre"
+  },
+  "funding": "https://github.com/sponsors/LuisSempre",
+  "license": "MIT",
+  "author": "LuisSempre <luis.silva@sempre.com.br>",
+  "main": "index.js",
+  "bin": {
+    "antfu": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
